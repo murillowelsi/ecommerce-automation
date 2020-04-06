@@ -33,4 +33,5 @@ ${BTN_CHECKOUT}    id:BasketGoToCheckout
 ${REMOVE_BTN}      class:article-remove-button
 ${LIST}            xpath://*[@data-tstid="sizeDescription"]
 
+### Checkout Elements
 ${CHECKOUT_TITLE}    xpath://*[@class="bold shippingAddress__title"]
